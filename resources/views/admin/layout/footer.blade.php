@@ -1,0 +1,8 @@
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer" style="position: fixed;bottom: 0;width: 100%;">
+    <div class="copyright">
+      &copy; Copyright <strong><span>NiceAdmin</span></strong>. All Rights Reserved
+    </div>
+  </footer>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
